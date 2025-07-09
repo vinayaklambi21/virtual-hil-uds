@@ -5,9 +5,7 @@ This is a simulation project that mimics HIL testing using open-source tools on 
 ## ✅ Features
 - Simulate UDS diagnostic requests (0x10, 0x11, 0x22)
 - Send/receive CAN frames over virtual CAN (`vcan0`)
-- DBC decoding with cantools
-- Log messages to CSV
-- Basic test automation runner
+
 
 ## 🧰 Technologies
 - Python 3
